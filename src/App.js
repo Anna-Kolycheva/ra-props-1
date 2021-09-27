@@ -12,6 +12,7 @@ function App() {
       <Stars count={1} />
       <Stars count={0} />
       <Stars count={6} />
+      <Stars count={2.6} />
     </div>
   );
 }
